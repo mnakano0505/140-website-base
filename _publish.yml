@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 1e9fa434-3d5b-4f55-9e4b-2fdeafadd47e
+      url: 'nakanomana0505.netlify.app'
