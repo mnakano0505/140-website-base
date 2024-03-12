@@ -18,13 +18,41 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Current CV can be found here"
   },
   {
-    "objectID": "index.html#title-of-website",
-    "href": "index.html#title-of-website",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "",
+    "section": "Education",
+    "text": "Education\n\nVenice High School 2016-2020\nUCLA 2020-2024"
+  },
+  {
+    "objectID": "relevant_course.html#political-science-b.a.",
+    "href": "relevant_course.html#political-science-b.a.",
+    "title": "Current Courses",
+    "section": "Political Science B.A.",
+    "text": "Political Science B.A."
+  },
+  {
+    "objectID": "relevant_course.html#statistics-and-data-science-b.s.",
+    "href": "relevant_course.html#statistics-and-data-science-b.s.",
+    "title": "Current Courses",
+    "section": "Statistics and Data Science B.S.",
+    "text": "Statistics and Data Science B.S."
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nTaka Hair Salon – receptionist (2020 - present)\nTasty Design Studio – Events Coordinator (2023 - present)"
+  },
+  {
+    "objectID": "relevant_course.html",
+    "href": "relevant_course.html",
+    "title": "Current Courses",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "STATS 140XP: Practice of Statistical Consulting\nSTATS c173: Geostatistical Analysis\nSTATS 133: Text Mining\nPOLSCI 120A: Foreign Policy of the U.S."
   }
 ]

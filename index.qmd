@@ -1,8 +1,34 @@
 ---
 toc: false
+image: pfp.jpg
+about: 
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: www.linkedin.com/in/mana-nakano-5408b3256
+    - icon: globe2
+      text: Tasty Design Studio
+      url: https://www.tasty.design
+    - icon: inbox-fill
+      text: Tasty Design Studio Email
+      url: "mailto:mana@tasty.design"
+    - icon: github
+      text: GitHub
+      url: www.github.com/mnakano0505
+    - icon: inbox-fill
+      text: Personal Contact Email
+      url: "mailto:nakanomana0505@gmail.com"
 ---
 
-This is a Quarto website.
+Current CV can be found [here](/docs/CV/NakanoMana_Resume.pdf "CV")
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Work Experience
+- **Taka Hair Salon** 
+-- *receptionist* (2020 - present)
+- **Tasty Design Studio** 
+-- *Events Coordinator* (2023 - present)
 
+## Education
+- Venice High School 2016-2020
+- UCLA 2020-2024

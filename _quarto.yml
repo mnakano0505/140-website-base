@@ -10,14 +10,17 @@ website:
         text: Projects
       - href: about.qmd
         text: Bio
+      - href: relevant_course.qmd
+        text: Relevant Coursework
+  page-footer:
+    right: "&copy; 2024, Mana Nakano"
       
 
 format:
   html:
-    theme: cosmo
+    theme: cosmos
     css: styles.css
     toc: true
-
 
 execute: 
   freeze: auto # only renders the files that were changed

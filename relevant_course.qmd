@@ -1,0 +1,16 @@
+---
+toc: false
+---
+
+# Current Courses
+- STATS 140XP: Practice of Statistical Consulting
+- STATS c173: Geostatistical Analysis
+- STATS 133: Text Mining
+- POLSCI 120A: Foreign Policy of the U.S.
+
+# Previous Courses
+
+## Political Science B.A.
+
+
+## Statistics and Data Science B.S.
