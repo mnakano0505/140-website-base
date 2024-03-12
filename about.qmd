@@ -1,5 +1,14 @@
 ---
-title: "About"
+title: "About Myself"
+toc: false
 ---
 
-About this website
+## Work Experience
+- **Taka Hair Salon** 
+-- *receptionist* (2020 - present)
+- **Tasty Design Studio** 
+-- *Events Coordinator* (2023 - present)
+
+## Education
+- Venice High School 2016-2020
+- UCLA 2020-2024

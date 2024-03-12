@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Myself",
     "section": "",
-    "text": "About this website"
+    "text": "Taka Hair Salon – receptionist (2020 - present)\nTasty Design Studio – Events Coordinator (2023 - present)"
   },
   {
     "objectID": "projects.html",
@@ -14,32 +14,32 @@
     "text": "Here you can demonstrate your projects"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
+    "objectID": "relevant_course.html",
+    "href": "relevant_course.html",
+    "title": "Current Courses",
     "section": "",
-    "text": "Current CV can be found here"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "",
-    "section": "Education",
-    "text": "Education\n\nVenice High School 2016-2020\nUCLA 2020-2024"
+    "text": "STATS 140XP: Practice of Statistical Consulting\nSTATS c173: Applied Geostatistics\nSTATS 133: Introduction to Text Mining\nPOLSCI 120A: Foreign Policy of the U.S."
   },
   {
     "objectID": "relevant_course.html#political-science-b.a.",
     "href": "relevant_course.html#political-science-b.a.",
     "title": "Current Courses",
     "section": "Political Science B.A.",
-    "text": "Political Science B.A."
+    "text": "Political Science B.A.\n\nPOL SCI 123A: International Law\nPOL SCI 124A: International Political Economy\nPOL SCI 125A: Arms Control & International Sc\nPOL SCI 140A: Congress\nPOL SCI 140B: The Presidency\nPOL SCI M152: Political Economics - Climate Change\nPOL SCI 170A: Trials For Social Change"
   },
   {
     "objectID": "relevant_course.html#statistics-and-data-science-b.s.",
     "href": "relevant_course.html#statistics-and-data-science-b.s.",
     "title": "Current Courses",
     "section": "Statistics and Data Science B.S.",
-    "text": "Statistics and Data Science B.S."
+    "text": "Statistics and Data Science B.S.\n\nSTATS 101B: Design & Analysis - Experiments\nSTATS 101C: Introduction to Regression and Data Mining\nSTATS 102C: Monte Carlo Methods"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mana Nakano",
+    "section": "",
+    "text": "Current CV can be found here"
   },
   {
     "objectID": "index.html#work-experience",
@@ -49,10 +49,24 @@
     "text": "Work Experience\n\nTaka Hair Salon – receptionist (2020 - present)\nTasty Design Studio – Events Coordinator (2023 - present)"
   },
   {
-    "objectID": "relevant_course.html",
-    "href": "relevant_course.html",
-    "title": "Current Courses",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "",
+    "section": "Education",
+    "text": "Education\n\nVenice High School 2016-2020\nUCLA 2020-2024"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "About Myself",
     "section": "",
-    "text": "STATS 140XP: Practice of Statistical Consulting\nSTATS c173: Geostatistical Analysis\nSTATS 133: Text Mining\nPOLSCI 120A: Foreign Policy of the U.S."
+    "text": "Taka Hair Salon – receptionist (2020 - present)\nTasty Design Studio – Events Coordinator (2023 - present)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Myself",
+    "section": "Education",
+    "text": "Education\n\nVenice High School 2016-2020\nUCLA 2020-2024"
   }
 ]

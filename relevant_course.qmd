@@ -4,13 +4,22 @@ toc: false
 
 # Current Courses
 - STATS 140XP: Practice of Statistical Consulting
-- STATS c173: Geostatistical Analysis
-- STATS 133: Text Mining
+- STATS c173: Applied Geostatistics
+- STATS 133: Introduction to Text Mining
 - POLSCI 120A: Foreign Policy of the U.S.
 
 # Previous Courses
 
 ## Political Science B.A.
-
+- POL SCI 123A: International Law
+- POL SCI 124A: International Political Economy
+- POL SCI 125A: Arms Control & International Sc
+- POL SCI 140A: Congress
+- POL SCI 140B: The Presidency
+- POL SCI M152: Political Economics - Climate Change
+- POL SCI 170A: Trials For Social Change
 
 ## Statistics and Data Science B.S.
+- STATS 101B: Design & Analysis - Experiments
+- STATS 101C: Introduction to Regression and Data Mining
+- STATS 102C: Monte Carlo Methods
