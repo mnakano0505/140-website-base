@@ -1,4 +1,6 @@
-## Title of Website
+---
+toc: false
+---
 
 This is a Quarto website.
 
